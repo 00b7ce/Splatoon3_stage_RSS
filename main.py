@@ -3,7 +3,6 @@ import json
 import datetime
 from feedgen.feed import FeedGenerator
 import requests
-import git
 from git import Repo
 
 STAGE_FILE='stage.xml'
