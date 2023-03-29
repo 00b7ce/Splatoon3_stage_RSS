@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>My RSS feed</title>
+    <link>https://splatoon3.ink</link>
+    <description>This is an example RSS feed</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 29 Mar 2023 05:49:07 +0000</lastBuildDate>
+    <item>
+      <title>2023/03/29 13:00〜
+■ナワバリバトル：ゴンズイ地区 / ヤガラ市場
+■チャレンジ(ガチヤグラ)：マテガイ放水路 / クサヤ温泉
+■オープン(ガチアサリ)：ユノハナ大渓谷 / ナンプラー遺跡
+■Xマッチ(ガチホコバトル)：ナメロウ金属 / マンタマリア号</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/13</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/03/29 15:00〜
+■ナワバリバトル：ユノハナ大渓谷 / クサヤ温泉
+■チャレンジ(ガチホコバトル)：ナメロウ金属 / マサバ海峡大橋
+■オープン(ガチエリア)：マテガイ放水路 / スメーシーワールド
+■Xマッチ(ガチヤグラ)：ヤガラ市場 / 海女美術大学</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/12</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/03/29 17:00〜
+■ナワバリバトル：スメーシーワールド / マンタマリア号
+■チャレンジ(ガチアサリ)：ヒラメが丘団地 / キンメダイ美術館
+■オープン(ガチヤグラ)：ゴンズイ地区 / マサバ海峡大橋
+■Xマッチ(ガチエリア)：ナンプラー遺跡 / チョウザメ造船</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/11</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/03/29 19:00〜
+■ナワバリバトル：キンメダイ美術館 / チョウザメ造船
+■チャレンジ(ガチエリア)：マヒマヒリゾート＆スパ / スメーシーワールド
+■オープン(ガチホコバトル)：ヒラメが丘団地 / マンタマリア号
+■Xマッチ(ガチアサリ)：ユノハナ大渓谷 / ザトウマーケット</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/10</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/03/29 21:00〜
+■ナワバリバトル：ナメロウ金属 / ザトウマーケット
+■チャレンジ(ガチヤグラ)：ヤガラ市場 / クサヤ温泉
+■オープン(ガチアサリ)：海女美術大学 / チョウザメ造船
+■Xマッチ(ガチホコバトル)：キンメダイ美術館 / スメーシーワールド</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/9</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/03/29 23:00〜
+■ナワバリバトル：クサヤ温泉 / マサバ海峡大橋
+■チャレンジ(ガチホコバトル)：海女美術大学 / マンタマリア号
+■オープン(ガチエリア)：ナメロウ金属 / ザトウマーケット
+■Xマッチ(ガチヤグラ)：ゴンズイ地区 / マヒマヒリゾート＆スパ</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/8</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/03/30 01:00〜
+■ナワバリバトル：ユノハナ大渓谷 / 海女美術大学
+■チャレンジ(ガチアサリ)：ヤガラ市場 / ザトウマーケット
+■オープン(ガチヤグラ)：ナンプラー遺跡 / マヒマヒリゾート＆スパ
+■Xマッチ(ガチエリア)：クサヤ温泉 / ヒラメが丘団地</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/7</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/03/30 03:00〜
+■ナワバリバトル：ヤガラ市場 / マヒマヒリゾート＆スパ
+■チャレンジ(ガチエリア)：ユノハナ大渓谷 / チョウザメ造船
+■オープン(ガチホコバトル)：クサヤ温泉 / キンメダイ美術館
+■Xマッチ(ガチアサリ)：マテガイ放水路 / マサバ海峡大橋</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/6</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/03/30 05:00〜
+■ナワバリバトル：ゴンズイ地区 / ヒラメが丘団地
+■チャレンジ(ガチヤグラ)：ナメロウ金属 / 海女美術大学
+■オープン(ガチアサリ)：ユノハナ大渓谷 / マテガイ放水路
+■Xマッチ(ガチホコバトル)：ヤガラ市場 / ナンプラー遺跡</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/03/30 07:00〜
+■ナワバリバトル：ナンプラー遺跡 / クサヤ温泉
+■チャレンジ(ガチホコバトル)：マテガイ放水路 / キンメダイ美術館
+■オープン(ガチエリア)：ゴンズイ地区 / ヤガラ市場
+■Xマッチ(ガチヤグラ)：ユノハナ大渓谷 / ナメロウ金属</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/03/30 09:00〜
+■ナワバリバトル：マテガイ放水路 / マヒマヒリゾート＆スパ
+■チャレンジ(ガチヤグラ)：ナメロウ金属 / スメーシーワールド
+■オープン(ガチホコバトル)：キンメダイ美術館 / マンタマリア号
+■Xマッチ(ガチアサリ)：海女美術大学 / ザトウマーケット</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/03/30 11:00〜
+■ナワバリバトル：スメーシーワールド / マンタマリア号
+■チャレンジ(ガチアサリ)：ゴンズイ地区 / ナンプラー遺跡
+■オープン(ガチエリア)：マヒマヒリゾート＆スパ / チョウザメ造船
+■Xマッチ(ガチホコバトル)：マテガイ放水路 / マサバ海峡大橋</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/03/30 13:00〜
+■ナワバリバトル：ナンプラー遺跡 / キンメダイ美術館
+■チャレンジ(ガチホコバトル)：マヒマヒリゾート＆スパ / チョウザメ造船
+■オープン(ガチヤグラ)：海女美術大学 / ザトウマーケット
+■Xマッチ(ガチエリア)：ヤガラ市場 / スメーシーワールド</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/1</guid>
+      <pubDate>Tue, 02 Aug 2022 04:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
