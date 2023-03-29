@@ -4,6 +4,7 @@ import datetime
 from feedgen.feed import FeedGenerator
 import requests
 import git
+from git import Repo
 
 STAGE_FILE='stage.xml'
 
@@ -64,8 +65,9 @@ def json_seikei():
     return dict_result
 
 def git_push():
-    repo = git.repo()
-    repo.git.commit('.','-m','\"' + datetime.datetime.now.strftime('%Y-%m-%d %H:%M:%S') +'\"')
+    now = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    repo = Repo()
+    repo.git.commit('.','-m','\"' + now +'\"')
     origin = repo.remote(name='origin')
     origin.push()
 
@@ -98,3 +100,5 @@ if __name__ == '__main__':
     xml_str = fg.rss_str(pretty=True)
     with open(STAGE_FILE, 'wb') as f:
         f.write(xml_str)
+
+    git_push()
