@@ -17,50 +17,78 @@ def json_seikei():
     data = json.loads(response.content)
 
     dict_result = {}
+    is_fes = False
 
     nawabari = data['data']['regularSchedules']['nodes']
     for item in nawabari:
-        time            = item["startTime"]
-        timestamp       = datetime.datetime.fromisoformat(time.rstrip('Z'))
-        delta           = datetime.timedelta(hours=9)
-        timestamp_local = timestamp + delta
-        stage_id1       = item["regularMatchSetting"]["vsStages"][0]["id"]
-        stage_id2       = item["regularMatchSetting"]["vsStages"][1]["id"]
-        dict_result[timestamp_local] = [f'■ナワバリバトル：{dict_stages[stage_id1]["name"]} / {dict_stages[stage_id2]["name"]}']
+        try:
+            time            = item["startTime"]
+            timestamp       = datetime.datetime.fromisoformat(time.rstrip('Z'))
+            delta           = datetime.timedelta(hours=9)
+            timestamp_local = timestamp + delta
+            stage_id1       = item["regularMatchSetting"]["vsStages"][0]["id"]
+            stage_id2       = item["regularMatchSetting"]["vsStages"][1]["id"]
+            dict_result[timestamp_local] = [f'■ナワバリバトル：{dict_stages[stage_id1]["name"]} / {dict_stages[stage_id2]["name"]}']
+        except TypeError:
+            is_fes = True
 
     bankara = data['data']['bankaraSchedules']['nodes']
     for item in bankara:
-        time            = item["startTime"]
-        timestamp       = datetime.datetime.fromisoformat(time.rstrip('Z'))
-        delta           = datetime.timedelta(hours=9)
-        timestamp_local = timestamp + delta
-        rule            = item["bankaraMatchSettings"][0]["vsRule"]["id"]
-        stage_id1       = item["bankaraMatchSettings"][0]["vsStages"][0]["id"]
-        stage_id2       = item["bankaraMatchSettings"][0]["vsStages"][1]["id"]
-        dict_result[timestamp_local].append(f'■チャレンジ({dict_rules[rule]["name"]})：{dict_stages[stage_id1]["name"]} / {dict_stages[stage_id2]["name"]}')
+        try:
+            time            = item["startTime"]
+            timestamp       = datetime.datetime.fromisoformat(time.rstrip('Z'))
+            delta           = datetime.timedelta(hours=9)
+            timestamp_local = timestamp + delta
+            rule            = item["bankaraMatchSettings"][0]["vsRule"]["id"]
+            stage_id1       = item["bankaraMatchSettings"][0]["vsStages"][0]["id"]
+            stage_id2       = item["bankaraMatchSettings"][0]["vsStages"][1]["id"]
+            dict_result[timestamp_local].append(f'■チャレンジ({dict_rules[rule]["name"]})：{dict_stages[stage_id1]["name"]} / {dict_stages[stage_id2]["name"]}')
+        except TypeError:
+            is_fes = True
 
     bankara = data['data']['bankaraSchedules']['nodes']
     for item in bankara:
-        time            = item["startTime"]
-        timestamp       = datetime.datetime.fromisoformat(time.rstrip('Z'))
-        delta           = datetime.timedelta(hours=9)
-        timestamp_local = timestamp + delta
-        rule            = item["bankaraMatchSettings"][1]["vsRule"]["id"]
-        stage_id1       = item["bankaraMatchSettings"][1]["vsStages"][0]["id"]
-        stage_id2       = item["bankaraMatchSettings"][1]["vsStages"][1]["id"]
-        dict_result[timestamp_local].append(f'■オープン({dict_rules[rule]["name"]})：{dict_stages[stage_id1]["name"]} / {dict_stages[stage_id2]["name"]}')
+        try:
+            time            = item["startTime"]
+            timestamp       = datetime.datetime.fromisoformat(time.rstrip('Z'))
+            delta           = datetime.timedelta(hours=9)
+            timestamp_local = timestamp + delta
+            rule            = item["bankaraMatchSettings"][1]["vsRule"]["id"]
+            stage_id1       = item["bankaraMatchSettings"][1]["vsStages"][0]["id"]
+            stage_id2       = item["bankaraMatchSettings"][1]["vsStages"][1]["id"]
+            dict_result[timestamp_local].append(f'■オープン({dict_rules[rule]["name"]})：{dict_stages[stage_id1]["name"]} / {dict_stages[stage_id2]["name"]}')
+        except TypeError:
+            is_fes = True
 
     x_match = data['data']['xSchedules']['nodes']
     for item in x_match:
-        time            = item["startTime"]
-        timestamp       = datetime.datetime.fromisoformat(time.rstrip('Z'))
-        delta           = datetime.timedelta(hours=9)
-        timestamp_local = timestamp + delta
-        rule            = item["xMatchSetting"]["vsRule"]["id"]
-        stage_id1       = item["xMatchSetting"]["vsStages"][0]["id"]
-        stage_id2       = item["xMatchSetting"]["vsStages"][1]["id"]
-        dict_result[timestamp_local].append(f'■Xマッチ({dict_rules[rule]["name"]})：{dict_stages[stage_id1]["name"]} / {dict_stages[stage_id2]["name"]}')
-    
+        try:
+            time            = item["startTime"]
+            timestamp       = datetime.datetime.fromisoformat(time.rstrip('Z'))
+            delta           = datetime.timedelta(hours=9)
+            timestamp_local = timestamp + delta
+            rule            = item["xMatchSetting"]["vsRule"]["id"]
+            stage_id1       = item["xMatchSetting"]["vsStages"][0]["id"]
+            stage_id2       = item["xMatchSetting"]["vsStages"][1]["id"]
+            dict_result[timestamp_local].append(f'■Xマッチ({dict_rules[rule]["name"]})：{dict_stages[stage_id1]["name"]} / {dict_stages[stage_id2]["name"]}')
+        except TypeError:
+            is_fes = True
+
+    if is_fes:
+        fest = data['data']['festSchedules']['nodes']
+        for item in fest:
+            try:
+                print(item['startTime'])
+                time            = item["startTime"]
+                timestamp       = datetime.datetime.fromisoformat(time.rstrip('Z'))
+                delta           = datetime.timedelta(hours=9)
+                timestamp_local = timestamp + delta
+                stage_id1       = item["festMatchSetting"]["vsStages"][0]["id"]
+                stage_id2       = item["festMatchSetting"]["vsStages"][1]["id"]
+                dict_result[timestamp_local] = [f'■フェスマッチ：{dict_stages[stage_id1]["name"]} / {dict_stages[stage_id2]["name"]}']
+            except TypeError:
+                pass
+
     return dict_result
 
 def git_push():
@@ -93,7 +121,7 @@ if __name__ == '__main__':
         fe.title(dict_entry[k])
         fe.link(href='https://splatoon3.ink', rel='alternate')
         fe.description('')
-        fe.pubDate('2022-08-02T04:00:00Z')
+        fe.pubDate(datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%SZ'))
         num = num + 1
 
     xml_str = fg.rss_str(pretty=True)
