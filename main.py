@@ -78,7 +78,6 @@ def json_seikei():
         fest = data['data']['festSchedules']['nodes']
         for item in fest:
             try:
-                print(item['startTime'])
                 time            = item["startTime"]
                 timestamp       = datetime.datetime.fromisoformat(time.rstrip('Z'))
                 delta           = datetime.timedelta(hours=9)
