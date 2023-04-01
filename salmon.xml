@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>My RSS feed</title>
+    <link>https://splatoon3.ink</link>
+    <description>This is an example RSS feed</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sat, 01 Apr 2023 03:48:06 +0000</lastBuildDate>
+    <item>
+      <title>2023/03/31 09:00〜■アラマキ砦
+・スプラマニューバー
+・ジムワイパー
+・プライムシューター
+・ハイドラント</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Sat, 01 Apr 2023 12:48:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/04/02 01:00〜■難破船ドン・ブラコ
+・シャープマーカー
+・クアッドホッパーブラック
+・ドライブワイパー
+・リッター4K</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Sat, 01 Apr 2023 12:48:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/04/03 17:00〜■ムニ・エール海洋発電所
+・ケルビン525
+・ボトルガイザー
+・ノーチラス47
+・ジェットスイーパー</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Sat, 01 Apr 2023 12:48:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/04/05 09:00〜■アラマキ砦
+・ヒッセン
+・スペースシューター
+・エクスプロッシャー
+・ラピッドブラスター</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Sat, 01 Apr 2023 12:48:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/04/07 01:00〜■シェケナダム
+・クラッシュブラスター
+・.52ガロン
+・ヴァリアブルローラー
+・バレルスピナー</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/1</guid>
+      <pubDate>Sat, 01 Apr 2023 12:48:06 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
