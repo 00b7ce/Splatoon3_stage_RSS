@@ -6,15 +6,17 @@ import requests
 from git import Repo
 
 STAGE_FILE='stage.xml'
+SALMON_FILE='salmon.xml'
 
-def json_seikei():
-    _res = requests.get('https://splatoon3.ink/data/locale/ja-JP.json')
-    data = json.loads(_res.content)
-    dict_stages = data['stages']
-    dict_rules  = data['rules']
+_res = requests.get('https://splatoon3.ink/data/locale/ja-JP.json')
+data = json.loads(_res.content)
+dict_stages = data['stages']
+dict_rules  = data['rules']
+dict_weapons = data['weapons']
+response = requests.get('https://splatoon3.ink/data/schedules.json')
+data = json.loads(response.content)
 
-    response = requests.get('https://splatoon3.ink/data/schedules.json')
-    data = json.loads(response.content)
+def stage_schedule():
 
     dict_result = {}
     is_fes = False
@@ -90,6 +92,22 @@ def json_seikei():
 
     return dict_result
 
+def salmon_schedule():
+    salmon = data['data']['coopGroupingSchedule']['regularSchedules']['nodes']
+    dict_result = {}
+    for item in salmon:
+        weapons = []
+        time            = item["startTime"]
+        timestamp       = datetime.datetime.fromisoformat(time.rstrip('Z'))
+        delta           = datetime.timedelta(hours=9)
+        timestamp_local = timestamp + delta
+        stage_id        = item["setting"]["coopStage"]["id"]
+        for weapon in item["setting"]['weapons']:
+            weapons.append('・' + dict_weapons[weapon['__splatoon3ink_id']]['name'])
+        dict_result[timestamp_local] = f'■{dict_stages[stage_id]["name"]}' + '\n' + '\n'.join(weapons)
+
+    return dict_result
+
 def git_push():
     now = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     repo = Repo()
@@ -99,8 +117,8 @@ def git_push():
 
 if __name__ == '__main__':
 
-    res = json_seikei()
-
+    # Stage schedule
+    res = stage_schedule()
     dict_entry = {}
 
     for k in reversed(res):
@@ -125,6 +143,34 @@ if __name__ == '__main__':
 
     xml_str = fg.rss_str(pretty=True)
     with open(STAGE_FILE, 'wb') as f:
+        f.write(xml_str)
+    
+    #Salmonrun schedule
+    res = salmon_schedule()
+    dict_entry = {}
+
+    for k in reversed(res):
+        dict_entry[k] = k.strftime('%Y/%m/%d %H:%M') + '〜'
+        for item in res[k]:
+            dict_entry[k] = dict_entry[k] + item
+
+    fg = FeedGenerator()
+    fg.title('My RSS feed')
+    fg.description('This is an example RSS feed')
+    fg.link(href='https://splatoon3.ink', rel='alternate')
+
+    num = 1
+    for k in dict_entry:
+        fe = fg.add_entry()
+        fe.id('http://example.com/entries/' + str(num))
+        fe.title(dict_entry[k])
+        fe.link(href='https://splatoon3.ink', rel='alternate')
+        fe.description('')
+        fe.pubDate(datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%SZ'))
+        num = num + 1
+
+    xml_str = fg.rss_str(pretty=True)
+    with open(SALMON_FILE, 'wb') as f:
         f.write(xml_str)
 
     git_push()
