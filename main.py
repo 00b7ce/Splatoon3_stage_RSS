@@ -132,7 +132,7 @@ if __name__ == '__main__':
     fg.link(href='https://splatoon3.ink', rel='alternate')
 
     num = 1
-    for k in dict_entry:
+    for k in sorted(dict_entry.keys(), reverse=True):
         fe = fg.add_entry()
         fe.id('http://example.com/entries/' + str(num))
         fe.title(dict_entry[k])
