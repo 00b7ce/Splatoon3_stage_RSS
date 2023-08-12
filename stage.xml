@@ -6,90 +6,90 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Aug 2023 04:01:02 +0000</lastBuildDate>
-    <item>
-      <title>2023/08/12 13:00〜
-■フェスマッチ：クサヤ温泉 / マサバ海峡大橋</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/12</guid>
-      <pubDate>Sat, 12 Aug 2023 13:01:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Aug 2023 06:01:02 +0000</lastBuildDate>
     <item>
       <title>2023/08/12 15:00〜
 ■フェスマッチ：ユノハナ大渓谷 / ヤガラ市場</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/11</guid>
-      <pubDate>Sat, 12 Aug 2023 13:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/12</guid>
+      <pubDate>Sat, 12 Aug 2023 15:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/08/12 17:00〜
 ■フェスマッチ：タラポートショッピングパーク / マンタマリア号</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/10</guid>
-      <pubDate>Sat, 12 Aug 2023 13:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/11</guid>
+      <pubDate>Sat, 12 Aug 2023 15:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/08/12 19:00〜
 ■フェスマッチ：ヒラメが丘団地 / スメーシーワールド</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/9</guid>
-      <pubDate>Sat, 12 Aug 2023 13:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/10</guid>
+      <pubDate>Sat, 12 Aug 2023 15:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/08/12 21:00〜
 ■フェスマッチ：マテガイ放水路 / ザトウマーケット</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/8</guid>
-      <pubDate>Sat, 12 Aug 2023 13:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/9</guid>
+      <pubDate>Sat, 12 Aug 2023 15:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/08/12 23:00〜
 ■フェスマッチ：マヒマヒリゾート＆スパ / チョウザメ造船</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/7</guid>
-      <pubDate>Sat, 12 Aug 2023 13:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/8</guid>
+      <pubDate>Sat, 12 Aug 2023 15:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/08/13 01:00〜
 ■フェスマッチ：ナンプラー遺跡 / ナメロウ金属</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/6</guid>
-      <pubDate>Sat, 12 Aug 2023 13:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/7</guid>
+      <pubDate>Sat, 12 Aug 2023 15:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/08/13 03:00〜
 ■フェスマッチ：ヤガラ市場 / 海女美術大学</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Sat, 12 Aug 2023 13:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/6</guid>
+      <pubDate>Sat, 12 Aug 2023 15:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/08/13 05:00〜
 ■フェスマッチ：クサヤ温泉 / キンメダイ美術館</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Sat, 12 Aug 2023 13:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Sat, 12 Aug 2023 15:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/08/13 07:00〜
 ■フェスマッチ：ユノハナ大渓谷 / チョウザメ造船</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Sat, 12 Aug 2023 13:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Sat, 12 Aug 2023 15:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/08/13 09:00〜
 ■フェスマッチ：ヒラメが丘団地 / 海女美術大学</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Sat, 12 Aug 2023 13:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Sat, 12 Aug 2023 15:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/08/13 11:00〜
 ■フェスマッチ：ゴンズイ地区 / ザトウマーケット</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Sat, 12 Aug 2023 15:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/08/13 13:00〜
+■フェスマッチ：ヤガラ市場 / マンタマリア号</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Sat, 12 Aug 2023 13:01:02 +0000</pubDate>
+      <pubDate>Sat, 12 Aug 2023 15:01:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
