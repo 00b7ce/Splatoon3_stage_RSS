@@ -6,17 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Aug 2023 02:01:02 +0000</lastBuildDate>
-    <item>
-      <title>2023/08/28 01:00〜■シェケナダム
-・わかばシューター
-・スペースシューター
-・パラシェルター
-・トライストリンガー</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Wed, 30 Aug 2023 11:01:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Aug 2023 04:01:03 +0000</lastBuildDate>
     <item>
       <title>2023/08/29 17:00〜■アラマキ砦
 ・スパッタリー
@@ -24,8 +14,8 @@
 ・バケットスロッシャー
 ・スプラチャージャー</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Wed, 30 Aug 2023 11:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Wed, 30 Aug 2023 13:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2023/08/31 09:00〜■難破船ドン・ブラコ
@@ -34,8 +24,8 @@
 ・ロングブラスター
 ・.96ガロン</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Wed, 30 Aug 2023 11:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Wed, 30 Aug 2023 13:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2023/09/04 09:00〜■
@@ -44,8 +34,18 @@
 ・フィンセント
 ・スクイックリンα</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Wed, 30 Aug 2023 13:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/09/06 01:00〜■
+・LACT-450
+・ドライブワイパー
+・はてな
+・ソイチューバー</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Wed, 30 Aug 2023 11:01:02 +0000</pubDate>
+      <pubDate>Wed, 30 Aug 2023 13:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
