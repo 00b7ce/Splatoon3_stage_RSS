@@ -6,17 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Sep 2023 14:01:03 +0000</lastBuildDate>
-    <item>
-      <title>2023/09/29 09:00〜■すじこジャンクション跡
-・わかばシューター
-・クラッシュブラスター
-・フィンセント
-・トライストリンガー</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Sat, 30 Sep 2023 23:01:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 Sep 2023 16:01:02 +0000</lastBuildDate>
     <item>
       <title>2023/10/01 01:00〜■シェケナダム
 ・カーボンローラー
@@ -24,8 +14,8 @@
 ・オーバーフロッシャー
 ・バレルスピナー</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Sat, 30 Sep 2023 23:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Sun, 01 Oct 2023 01:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/10/02 17:00〜■アラマキ砦
@@ -34,8 +24,8 @@
 ・14式竹筒銃・甲
 ・ハイドラント</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Sat, 30 Sep 2023 23:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Sun, 01 Oct 2023 01:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/10/04 09:00〜■難破船ドン・ブラコ
@@ -44,8 +34,8 @@
 ・S-BLAST92
 ・R-PEN/5H</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Sat, 30 Sep 2023 23:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Sun, 01 Oct 2023 01:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2023/10/06 01:00〜■トキシラズいぶし工房
@@ -54,8 +44,18 @@
 ・ラピッドブラスター
 ・スプラチャージャー</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Sun, 01 Oct 2023 01:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>2023/10/07 17:00〜■ムニ・エール海洋発電所
+・ボールドマーカー
+・プライムシューター
+・キャンピングシェルター
+・ランダム</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Sat, 30 Sep 2023 23:01:03 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2023 01:01:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
