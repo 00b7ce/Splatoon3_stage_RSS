@@ -6,27 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Mar 2024 00:01:03 +0000</lastBuildDate>
-    <item>
-      <title>2024/03/21 09:00〜■アラマキ砦
-・わかばシューター
-・LACT-450
-・ジムワイパー
-・バレルスピナー</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Fri, 22 Mar 2024 09:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>2024/03/23 01:00〜■難破船ドン・ブラコ
-・.52ガロン
-・24式張替傘・甲
-・トライストリンガー
-・ランダム</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Fri, 22 Mar 2024 09:01:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Mar 2024 00:01:02 +0000</lastBuildDate>
     <item>
       <title>2024/03/24 17:00〜■トキシラズいぶし工房
 ・ヒッセン
@@ -34,8 +14,8 @@
 ・パラシェルター
 ・スクイックリンα</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Fri, 22 Mar 2024 09:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Mon, 25 Mar 2024 09:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2024/03/26 09:00〜■ムニ・エール海洋発電所
@@ -44,8 +24,8 @@
 ・14式竹筒銃・甲
 ・.96ガロン</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Fri, 22 Mar 2024 09:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Mon, 25 Mar 2024 09:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2024/03/28 01:00〜■どんぴこ闘技場
@@ -54,8 +34,28 @@
 ・H3リールガン
 ・ソイチューバー</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Mon, 25 Mar 2024 09:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>2024/03/29 17:00〜■すじこジャンクション跡
+・スプラシューター
+・ワイドローラー
+・バケットスロッシャー
+・ハイドラント</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Mon, 25 Mar 2024 09:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>2024/03/31 09:00〜■シェケナダム
+・わかばシューター
+・ヴァリアブルローラー
+・イグザミナー
+・ジェットスイーパー</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Fri, 22 Mar 2024 09:01:03 +0000</pubDate>
+      <pubDate>Mon, 25 Mar 2024 09:01:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
