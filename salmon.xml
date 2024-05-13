@@ -6,17 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 May 2024 06:01:02 +0000</lastBuildDate>
-    <item>
-      <title>2024/05/12 01:00〜■トキシラズいぶし工房
-・パブロ
-・わかばシューター
-・ジムワイパー
-・ソイチューバー</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Mon, 13 May 2024 15:01:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 May 2024 08:01:03 +0000</lastBuildDate>
     <item>
       <title>2024/05/13 17:00〜■ムニ・エール海洋発電所
 ・ボールドマーカー
@@ -24,8 +14,8 @@
 ・デュアルスイーパー
 ・トライストリンガー</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Mon, 13 May 2024 15:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Mon, 13 May 2024 17:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2024/05/15 09:00〜■どんぴこ闘技場
@@ -34,8 +24,8 @@
 ・24式張替傘・甲
 ・リッター4K</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Mon, 13 May 2024 15:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Mon, 13 May 2024 17:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2024/05/17 01:00〜■すじこジャンクション跡
@@ -44,8 +34,8 @@
 ・ノーチラス47
 ・スクイックリンα</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Mon, 13 May 2024 15:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Mon, 13 May 2024 17:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2024/05/18 17:00〜■シェケナダム
@@ -54,8 +44,18 @@
 ・.96ガロン
 ・ランダム</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Mon, 13 May 2024 17:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>2024/05/20 09:00〜■アラマキ砦
+・ケルビン525
+・オーバーフロッシャー
+・エクスプロッシャー
+・バレルスピナー</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Mon, 13 May 2024 15:01:02 +0000</pubDate>
+      <pubDate>Mon, 13 May 2024 17:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
