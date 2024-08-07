@@ -6,7 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Aug 2024 12:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 14:01:02 +0000</lastBuildDate>
     <item>
       <title>2024/08/07 17:00〜■難破船ドン・ブラコ
 ・カーボンローラー
@@ -15,7 +15,7 @@
 ・フルイドV</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Wed, 07 Aug 2024 21:01:02 +0000</pubDate>
+      <pubDate>Wed, 07 Aug 2024 23:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2024/08/09 09:00〜■トキシラズいぶし工房
@@ -25,7 +25,7 @@
 ・トライストリンガー</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Wed, 07 Aug 2024 21:01:02 +0000</pubDate>
+      <pubDate>Wed, 07 Aug 2024 23:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2024/08/11 01:00〜■ムニ・エール海洋発電所
@@ -35,7 +35,7 @@
 ・R-PEN/5H</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Wed, 07 Aug 2024 21:01:02 +0000</pubDate>
+      <pubDate>Wed, 07 Aug 2024 23:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2024/08/12 17:00〜■どんぴこ闘技場
@@ -45,7 +45,7 @@
 ・キャンピングシェルター</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Wed, 07 Aug 2024 21:01:02 +0000</pubDate>
+      <pubDate>Wed, 07 Aug 2024 23:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2024/08/14 09:00〜■すじこジャンクション跡
@@ -55,7 +55,7 @@
 ・ハイドラント</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Wed, 07 Aug 2024 21:01:02 +0000</pubDate>
+      <pubDate>Wed, 07 Aug 2024 23:01:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
