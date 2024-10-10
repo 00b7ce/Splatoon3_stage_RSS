@@ -6,17 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Oct 2024 14:01:02 +0000</lastBuildDate>
-    <item>
-      <title>2024/10/09 09:00〜■どんぴこ闘技場
-・L3リールガン
-・スプラスピナー
-・ドライブワイパー
-・R-PEN/5H</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Thu, 10 Oct 2024 23:01:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Oct 2024 16:01:02 +0000</lastBuildDate>
     <item>
       <title>2024/10/11 01:00〜■すじこジャンクション跡
 ・ガエンFF
@@ -24,8 +14,8 @@
 ・オーバーフロッシャー
 ・ハイドラント</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Thu, 10 Oct 2024 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Fri, 11 Oct 2024 01:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2024/10/12 17:00〜■シェケナダム
@@ -34,8 +24,8 @@
 ・ボールドマーカー
 ・ジェットスイーパー</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Thu, 10 Oct 2024 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Fri, 11 Oct 2024 01:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2024/10/14 09:00〜■難破船ドン・ブラコ
@@ -44,8 +34,8 @@
 ・クラッシュブラスター
 ・トライストリンガー</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Thu, 10 Oct 2024 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Fri, 11 Oct 2024 01:01:02 +0000</pubDate>
     </item>
     <item>
       <title>2024/10/16 01:00〜■どんぴこ闘技場
@@ -54,8 +44,18 @@
 ・ノヴァブラスター
 ・バレルスピナー</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Fri, 11 Oct 2024 01:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>2024/10/17 17:00〜■シェケナダム
+・シャープマーカー
+・クーゲルシュライバー
+・.52ガロン
+・ラピッドブラスター</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Thu, 10 Oct 2024 23:01:02 +0000</pubDate>
+      <pubDate>Fri, 11 Oct 2024 01:01:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
