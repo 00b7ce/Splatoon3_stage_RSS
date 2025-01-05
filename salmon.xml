@@ -6,17 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jan 2025 06:01:02 +0000</lastBuildDate>
-    <item>
-      <title>2025/01/04 01:00〜■すじこジャンクション跡
-・ランダム
-・ランダム
-・ランダム
-・ランダム</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Sun, 05 Jan 2025 15:01:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jan 2025 08:01:03 +0000</lastBuildDate>
     <item>
       <title>2025/01/05 17:00〜■トキシラズいぶし工房
 ・デュアルスイーパー
@@ -24,8 +14,8 @@
 ・ヒッセン
 ・フルイドV</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Sun, 05 Jan 2025 15:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Sun, 05 Jan 2025 17:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/01/07 09:00〜■シェケナダム
@@ -34,8 +24,8 @@
 ・ホットブラスター
 ・リッター4K</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Sun, 05 Jan 2025 15:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Sun, 05 Jan 2025 17:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/01/09 01:00〜■ムニ・エール海洋発電所
@@ -44,8 +34,8 @@
 ・N-ZAP85
 ・ハイドラント</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Sun, 05 Jan 2025 15:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Sun, 05 Jan 2025 17:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/01/10 17:00〜■どんぴこ闘技場
@@ -54,8 +44,18 @@
 ・パラシェルター
 ・.96ガロン</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Sun, 05 Jan 2025 17:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025/01/12 09:00〜■すじこジャンクション跡
+・ドライブワイパー
+・モップリン
+・ガエンFF
+・ジェットスイーパー</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Sun, 05 Jan 2025 15:01:02 +0000</pubDate>
+      <pubDate>Sun, 05 Jan 2025 17:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
