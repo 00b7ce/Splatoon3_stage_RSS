@@ -6,27 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Jan 2025 06:01:03 +0000</lastBuildDate>
-    <item>
-      <title>2025/01/20 15:00〜
-■ナワバリバトル：ヤガラ市場 / 海女美術大学
-■チャレンジ(ガチヤグラ)：マテガイ放水路 / チョウザメ造船
-■オープン(ガチアサリ)：ザトウマーケット / ネギトロ炭鉱
-■Xマッチ(ガチホコバトル)：タラポートショッピングパーク / オヒョウ海運</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/12</guid>
-      <pubDate>Mon, 20 Jan 2025 15:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025/01/20 17:00〜
-■ナワバリバトル：ナメロウ金属 / キンメダイ美術館
-■チャレンジ(ガチエリア)：ヒラメが丘団地 / コンブトラック
-■オープン(ガチホコバトル)：ヤガラ市場 / クサヤ温泉
-■Xマッチ(ガチアサリ)：海女美術大学 / バイガイ亭</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/11</guid>
-      <pubDate>Mon, 20 Jan 2025 15:01:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Jan 2025 10:01:03 +0000</lastBuildDate>
     <item>
       <title>2025/01/20 19:00〜
 ■ナワバリバトル：ゴンズイ地区 / クサヤ温泉
@@ -34,8 +14,8 @@
 ■オープン(ガチヤグラ)：ナンプラー遺跡 / スメーシーワールド
 ■Xマッチ(ガチエリア)：ナメロウ金属 / マヒマヒリゾート＆スパ</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/10</guid>
-      <pubDate>Mon, 20 Jan 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/12</guid>
+      <pubDate>Mon, 20 Jan 2025 19:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/01/20 21:00〜
@@ -44,8 +24,8 @@
 ■オープン(ガチエリア)：チョウザメ造船 / タカアシ経済特区
 ■Xマッチ(ガチヤグラ)：ヒラメが丘団地 / ザトウマーケット</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/9</guid>
-      <pubDate>Mon, 20 Jan 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/11</guid>
+      <pubDate>Mon, 20 Jan 2025 19:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/01/20 23:00〜
@@ -54,8 +34,8 @@
 ■オープン(ガチアサリ)：ゴンズイ地区 / タラポートショッピングパーク
 ■Xマッチ(ガチホコバトル)：コンブトラック / ネギトロ炭鉱</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/8</guid>
-      <pubDate>Mon, 20 Jan 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/10</guid>
+      <pubDate>Mon, 20 Jan 2025 19:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/01/21 01:00〜
@@ -64,8 +44,8 @@
 ■オープン(ガチホコバトル)：ヒラメが丘団地 / キンメダイ美術館
 ■Xマッチ(ガチアサリ)：ユノハナ大渓谷 / ヤガラ市場</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/7</guid>
-      <pubDate>Mon, 20 Jan 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/9</guid>
+      <pubDate>Mon, 20 Jan 2025 19:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/01/21 03:00〜
@@ -74,8 +54,8 @@
 ■オープン(ガチヤグラ)：マテガイ放水路 / コンブトラック
 ■Xマッチ(ガチエリア)：チョウザメ造船 / タカアシ経済特区</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/6</guid>
-      <pubDate>Mon, 20 Jan 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/8</guid>
+      <pubDate>Mon, 20 Jan 2025 19:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/01/21 05:00〜
@@ -84,8 +64,8 @@
 ■オープン(ガチエリア)：海女美術大学 / オヒョウ海運
 ■Xマッチ(ガチヤグラ)：ゴンズイ地区 / カジキ空港</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Mon, 20 Jan 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/7</guid>
+      <pubDate>Mon, 20 Jan 2025 19:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/01/21 07:00〜
@@ -94,8 +74,8 @@
 ■オープン(ガチアサリ)：ネギトロ炭鉱 / カジキ空港
 ■Xマッチ(ガチホコバトル)：チョウザメ造船 / リュウグウターミナル</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Mon, 20 Jan 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/6</guid>
+      <pubDate>Mon, 20 Jan 2025 19:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/01/21 09:00〜
@@ -104,8 +84,8 @@
 ■オープン(ガチヤグラ)：ナメロウ金属 / キンメダイ美術館
 ■Xマッチ(ガチエリア)：コンブトラック / マンタマリア号</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Mon, 20 Jan 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Mon, 20 Jan 2025 19:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/01/21 11:00〜
@@ -114,8 +94,8 @@
 ■オープン(ガチアサリ)：海女美術大学 / バイガイ亭
 ■Xマッチ(ガチヤグラ)：ユノハナ大渓谷 / ネギトロ炭鉱</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Mon, 20 Jan 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Mon, 20 Jan 2025 19:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/01/21 13:00〜
@@ -124,8 +104,28 @@
 ■オープン(ガチホコバトル)：ナメロウ金属 / マンタマリア号
 ■Xマッチ(ガチアサリ)：ナンプラー遺跡 / マヒマヒリゾート＆スパ</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Mon, 20 Jan 2025 19:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025/01/21 15:00〜
+■ナワバリバトル：ナンプラー遺跡 / バイガイ亭
+■チャレンジ(ガチアサリ)：キンメダイ美術館 / コンブトラック
+■オープン(ガチエリア)：ユノハナ大渓谷 / ゴンズイ地区
+■Xマッチ(ガチホコバトル)：ザトウマーケット / スメーシーワールド</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Mon, 20 Jan 2025 19:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025/01/21 17:00〜
+■ナワバリバトル：マテガイ放水路 / チョウザメ造船
+■チャレンジ(ガチホコバトル)：ユノハナ大渓谷 / ゴンズイ地区
+■オープン(ガチヤグラ)：マンタマリア号 / タカアシ経済特区
+■Xマッチ(ガチエリア)：キンメダイ美術館 / カジキ空港</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Mon, 20 Jan 2025 15:01:03 +0000</pubDate>
+      <pubDate>Mon, 20 Jan 2025 19:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
