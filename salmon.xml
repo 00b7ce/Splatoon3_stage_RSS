@@ -6,27 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Feb 2025 00:01:03 +0000</lastBuildDate>
-    <item>
-      <title>2025/02/06 09:00〜■どんぴこ闘技場
-・ドライブワイパー
-・スプラシューター
-・ホクサイ
-・スクイックリンα</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Fri, 07 Feb 2025 09:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025/02/08 01:00〜■難破船ドン・ブラコ
-・イグザミナー
-・ボールドマーカー
-・デンタルワイパーミント
-・スプラチャージャー</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Fri, 07 Feb 2025 09:01:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Feb 2025 00:01:03 +0000</lastBuildDate>
     <item>
       <title>2025/02/09 17:00〜■シェケナダム
 ・24式張替傘・甲
@@ -34,8 +14,8 @@
 ・ガエンFF
 ・.96ガロン</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Fri, 07 Feb 2025 09:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Mon, 10 Feb 2025 09:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/02/11 09:00〜■すじこジャンクション跡
@@ -44,8 +24,8 @@
 ・スプラスピナー
 ・ソイチューバー</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Fri, 07 Feb 2025 09:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Mon, 10 Feb 2025 09:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/02/13 01:00〜■アラマキ砦
@@ -54,8 +34,18 @@
 ・カーボンローラー
 ・バレルスピナー</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Mon, 10 Feb 2025 09:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025/02/14 17:00〜■トキシラズいぶし工房
+・L3リールガン
+・わかばシューター
+・Rブラスターエリート
+・ランダム</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Fri, 07 Feb 2025 09:01:03 +0000</pubDate>
+      <pubDate>Mon, 10 Feb 2025 09:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
