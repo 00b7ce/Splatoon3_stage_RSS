@@ -6,7 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Mar 2025 18:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 20:01:03 +0000</lastBuildDate>
     <item>
       <title>2025/03/09 03:00〜
 ■ナワバリバトル：ザトウマーケット / タカアシ経済特区
@@ -15,7 +15,7 @@
 ■Xマッチ(ガチホコバトル)：キンメダイ美術館 / コンブトラック</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/12</guid>
-      <pubDate>Sun, 09 Mar 2025 03:01:02 +0000</pubDate>
+      <pubDate>Sun, 09 Mar 2025 05:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/09 05:00〜
@@ -25,7 +25,7 @@
 ■Xマッチ(ガチアサリ)：ヤガラ市場 / ナメロウ金属</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/11</guid>
-      <pubDate>Sun, 09 Mar 2025 03:01:02 +0000</pubDate>
+      <pubDate>Sun, 09 Mar 2025 05:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/09 07:00〜
@@ -35,7 +35,7 @@
 ■Xマッチ(ガチヤグラ)：ユノハナ大渓谷 / ヒラメが丘団地</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/10</guid>
-      <pubDate>Sun, 09 Mar 2025 03:01:02 +0000</pubDate>
+      <pubDate>Sun, 09 Mar 2025 05:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/09 09:00〜
@@ -45,7 +45,7 @@
 ■Xマッチ(ガチアサリ)：マサバ海峡大橋 / ザトウマーケット</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/9</guid>
-      <pubDate>Sun, 09 Mar 2025 03:01:02 +0000</pubDate>
+      <pubDate>Sun, 09 Mar 2025 05:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/09 11:00〜
@@ -55,7 +55,7 @@
 ■Xマッチ(ガチエリア)：ゴンズイ地区 / カジキ空港</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/8</guid>
-      <pubDate>Sun, 09 Mar 2025 03:01:02 +0000</pubDate>
+      <pubDate>Sun, 09 Mar 2025 05:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/09 13:00〜
@@ -65,7 +65,7 @@
 ■Xマッチ(ガチヤグラ)：ヤガラ市場 / マンタマリア号</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/7</guid>
-      <pubDate>Sun, 09 Mar 2025 03:01:02 +0000</pubDate>
+      <pubDate>Sun, 09 Mar 2025 05:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/09 15:00〜
@@ -75,7 +75,7 @@
 ■Xマッチ(ガチホコバトル)：海女美術大学 / チョウザメ造船</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/6</guid>
-      <pubDate>Sun, 09 Mar 2025 03:01:02 +0000</pubDate>
+      <pubDate>Sun, 09 Mar 2025 05:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/09 17:00〜
@@ -85,7 +85,7 @@
 ■Xマッチ(ガチアサリ)：タラポートショッピングパーク / リュウグウターミナル</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Sun, 09 Mar 2025 03:01:02 +0000</pubDate>
+      <pubDate>Sun, 09 Mar 2025 05:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/09 19:00〜
@@ -95,7 +95,7 @@
 ■Xマッチ(ガチエリア)：タカアシ経済特区 / ネギトロ炭鉱</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Sun, 09 Mar 2025 03:01:02 +0000</pubDate>
+      <pubDate>Sun, 09 Mar 2025 05:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/09 21:00〜
@@ -105,7 +105,7 @@
 ■Xマッチ(ガチヤグラ)：スメーシーワールド / コンブトラック</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Sun, 09 Mar 2025 03:01:02 +0000</pubDate>
+      <pubDate>Sun, 09 Mar 2025 05:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/09 23:00〜
@@ -115,7 +115,7 @@
 ■Xマッチ(ガチホコバトル)：マテガイ放水路 / マヒマヒリゾート＆スパ</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Sun, 09 Mar 2025 03:01:02 +0000</pubDate>
+      <pubDate>Sun, 09 Mar 2025 05:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/10 01:00〜
@@ -125,7 +125,7 @@
 ■Xマッチ(ガチアサリ)：ヒラメが丘団地 / オヒョウ海運</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Sun, 09 Mar 2025 03:01:02 +0000</pubDate>
+      <pubDate>Sun, 09 Mar 2025 05:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
