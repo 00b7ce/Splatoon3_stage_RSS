@@ -6,17 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Mar 2025 22:01:03 +0000</lastBuildDate>
-    <item>
-      <title>2025/03/21 17:00〜■難破船ドン・ブラコ
-・L3リールガン
-・ボトルガイザー
-・ハイドラント
-・ランダム</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Sun, 23 Mar 2025 07:01:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Mar 2025 00:01:03 +0000</lastBuildDate>
     <item>
       <title>2025/03/23 09:00〜■シェケナダム
 ・フィンセント
@@ -24,8 +14,8 @@
 ・ドライブワイパー
 ・ラピッドブラスター</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Sun, 23 Mar 2025 07:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Sun, 23 Mar 2025 09:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/25 01:00〜■アラマキ砦
@@ -34,8 +24,8 @@
 ・スプラマニューバー
 ・.96ガロン</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Sun, 23 Mar 2025 07:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Sun, 23 Mar 2025 09:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/26 17:00〜■トキシラズいぶし工房
@@ -44,8 +34,8 @@
 ・ヴァリアブルローラー
 ・トライストリンガー</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Sun, 23 Mar 2025 07:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Sun, 23 Mar 2025 09:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/03/28 09:00〜■どんぴこ闘技場
@@ -54,8 +44,18 @@
 ・ヒッセン
 ・バレルスピナー</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Sun, 23 Mar 2025 09:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025/03/30 01:00〜■すじこジャンクション跡
+・ホットブラスター
+・シャープマーカー
+・N-ZAP85
+・ソイチューバー</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Sun, 23 Mar 2025 07:01:03 +0000</pubDate>
+      <pubDate>Sun, 23 Mar 2025 09:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
