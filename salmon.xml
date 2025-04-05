@@ -6,17 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Apr 2025 06:01:03 +0000</lastBuildDate>
-    <item>
-      <title>2025/04/04 01:00〜■シェケナダム
-・S-BLAST92
-・ガエンFF
-・スプラマニューバー
-・スクイックリンα</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Sat, 05 Apr 2025 15:01:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Apr 2025 08:01:03 +0000</lastBuildDate>
     <item>
       <title>2025/04/05 17:00〜■どんぴこ闘技場
 ・ランダム
@@ -24,8 +14,8 @@
 ・ランダム
 ・ランダム</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Sat, 05 Apr 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Sat, 05 Apr 2025 17:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/04/07 09:00〜■トキシラズいぶし工房
@@ -34,8 +24,8 @@
 ・スプラシューター
 ・フルイドV</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Sat, 05 Apr 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Sat, 05 Apr 2025 17:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/04/09 01:00〜■どんぴこ闘技場
@@ -44,8 +34,8 @@
 ・ノヴァブラスター
 ・14式竹筒銃・甲</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Sat, 05 Apr 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Sat, 05 Apr 2025 17:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/04/10 17:00〜■ムニ・エール海洋発電所
@@ -54,8 +44,18 @@
 ・クアッドホッパーブラック
 ・スプラチャージャー</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Sat, 05 Apr 2025 17:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025/04/12 09:00〜■アラマキ砦
+・デンタルワイパーミント
+・スペースシューター
+・.96ガロン
+・キャンピングシェルター</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Sat, 05 Apr 2025 15:01:03 +0000</pubDate>
+      <pubDate>Sat, 05 Apr 2025 17:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
