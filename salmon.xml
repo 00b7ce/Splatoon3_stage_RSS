@@ -6,27 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Apr 2025 00:01:03 +0000</lastBuildDate>
-    <item>
-      <title>2025/04/10 17:00〜■ムニ・エール海洋発電所
-・ホットブラスター
-・スプラスピナー
-・クアッドホッパーブラック
-・スプラチャージャー</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Fri, 11 Apr 2025 09:01:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025/04/12 09:00〜■アラマキ砦
-・デンタルワイパーミント
-・スペースシューター
-・.96ガロン
-・キャンピングシェルター</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Fri, 11 Apr 2025 09:01:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Apr 2025 00:01:03 +0000</lastBuildDate>
     <item>
       <title>2025/04/14 01:00〜■どんぴこ闘技場
 ・わかばシューター
@@ -34,8 +14,8 @@
 ・24式張替傘・甲
 ・ハイドラント</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Fri, 11 Apr 2025 09:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Mon, 14 Apr 2025 09:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/04/15 17:00〜■すじこジャンクション跡
@@ -44,8 +24,8 @@
 ・ヴァリアブルローラー
 ・トライストリンガー</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Fri, 11 Apr 2025 09:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Mon, 14 Apr 2025 09:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/04/17 09:00〜■難破船ドン・ブラコ
@@ -54,8 +34,28 @@
 ・ジムワイパー
 ・ジェットスイーパー</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Mon, 14 Apr 2025 09:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025/04/19 01:00〜■シェケナダム
+・フィンセント
+・シャープマーカー
+・R-PEN/5H
+・ランダム</title>
+      <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Mon, 14 Apr 2025 09:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025/04/20 17:00〜■トキシラズいぶし工房
+・スプラマニューバー
+・ドライブワイパー
+・パラシェルター
+・リッター4K</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Fri, 11 Apr 2025 09:01:03 +0000</pubDate>
+      <pubDate>Mon, 14 Apr 2025 09:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
