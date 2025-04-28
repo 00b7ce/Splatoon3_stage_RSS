@@ -6,7 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Apr 2025 04:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 06:01:03 +0000</lastBuildDate>
     <item>
       <title>2025/04/27 09:00〜■すじこジャンクション跡
 ・ワイドローラー
@@ -15,7 +15,7 @@
 ・ジェットスイーパー</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Mon, 28 Apr 2025 13:01:02 +0000</pubDate>
+      <pubDate>Mon, 28 Apr 2025 15:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/04/29 01:00〜■難破船ドン・ブラコ
@@ -25,7 +25,7 @@
 ・R-PEN/5H</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Mon, 28 Apr 2025 13:01:02 +0000</pubDate>
+      <pubDate>Mon, 28 Apr 2025 15:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/04/30 17:00〜■シェケナダム
@@ -35,7 +35,7 @@
 ・フルイドV</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Mon, 28 Apr 2025 13:01:02 +0000</pubDate>
+      <pubDate>Mon, 28 Apr 2025 15:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/05/02 09:00〜■トキシラズいぶし工房
@@ -45,7 +45,7 @@
 ・スプラチャージャー</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Mon, 28 Apr 2025 13:01:02 +0000</pubDate>
+      <pubDate>Mon, 28 Apr 2025 15:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/05/04 01:00〜■難破船ドン・ブラコ
@@ -55,7 +55,7 @@
 ・ランダム</title>
       <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Mon, 28 Apr 2025 13:01:02 +0000</pubDate>
+      <pubDate>Mon, 28 Apr 2025 15:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
