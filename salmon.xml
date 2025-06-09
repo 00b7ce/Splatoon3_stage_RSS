@@ -6,17 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jun 2025 06:01:03 +0000</lastBuildDate>
-    <item>
-      <title>2025/06/08 01:00〜■アラマキ砦
-・ヒッセン
-・スプラマニューバー
-・カーボンローラー
-・バレルスピナー</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Mon, 09 Jun 2025 15:01:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Jun 2025 08:01:03 +0000</lastBuildDate>
     <item>
       <title>2025/06/09 17:00〜■難破船ドン・ブラコ
 ・ボールドマーカー
@@ -24,8 +14,8 @@
 ・スパッタリー
 ・ソイチューバー</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Mon, 09 Jun 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Mon, 09 Jun 2025 17:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/06/11 09:00〜■トキシラズいぶし工房
@@ -34,8 +24,8 @@
 ・LACT-450
 ・スクイックリンα</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Mon, 09 Jun 2025 15:01:03 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Mon, 09 Jun 2025 17:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/06/13 01:00〜■ムニ・エール海洋発電所
@@ -44,8 +34,18 @@
 ・デュアルスイーパー
 ・トライストリンガー</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Mon, 09 Jun 2025 17:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025/06/16 09:00〜■どんぴこ闘技場
+・.52ガロン
+・スペースシューター
+・L3リールガン
+・ラピッドブラスター</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Mon, 09 Jun 2025 15:01:03 +0000</pubDate>
+      <pubDate>Mon, 09 Jun 2025 17:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
