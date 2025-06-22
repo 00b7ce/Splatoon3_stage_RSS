@@ -6,17 +6,7 @@
     <description>This is an example RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Jun 2025 14:01:02 +0000</lastBuildDate>
-    <item>
-      <title>2025/06/22 23:00〜
-■ナワバリバトル：コンブトラック / オヒョウ海運
-■チャレンジ(ガチホコバトル)：ゴンズイ地区 / マヒマヒリゾート＆スパ
-■オープン(ガチヤグラ)：タカアシ経済特区 / リュウグウターミナル
-■Xマッチ(ガチエリア)：ナンプラー遺跡 / ナメロウ金属</title>
-      <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/12</guid>
-      <pubDate>Sun, 22 Jun 2025 23:01:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Jun 2025 16:01:03 +0000</lastBuildDate>
     <item>
       <title>2025/06/23 01:00〜
 ■ナワバリバトル：クサヤ温泉 / ヒラメが丘団地
@@ -24,8 +14,8 @@
 ■オープン(ガチエリア)：チョウザメ造船 / マンタマリア号
 ■Xマッチ(ガチヤグラ)：マテガイ放水路 / デカライン高架下</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/11</guid>
-      <pubDate>Sun, 22 Jun 2025 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/12</guid>
+      <pubDate>Mon, 23 Jun 2025 01:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/06/23 03:00〜
@@ -34,8 +24,8 @@
 ■オープン(ガチホコバトル)：マサバ海峡大橋 / キンメダイ美術館
 ■Xマッチ(ガチアサリ)：マヒマヒリゾート＆スパ / カジキ空港</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/10</guid>
-      <pubDate>Sun, 22 Jun 2025 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/11</guid>
+      <pubDate>Mon, 23 Jun 2025 01:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/06/23 05:00〜
@@ -44,8 +34,8 @@
 ■オープン(ガチアサリ)：ヤガラ市場 / ザトウマーケット
 ■Xマッチ(ガチホコバトル)：スメーシーワールド / コンブトラック</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/9</guid>
-      <pubDate>Sun, 22 Jun 2025 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/10</guid>
+      <pubDate>Mon, 23 Jun 2025 01:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/06/23 07:00〜
@@ -54,8 +44,8 @@
 ■オープン(ガチヤグラ)：ネギトロ炭鉱 / カジキ空港
 ■Xマッチ(ガチエリア)：クサヤ温泉 / タラポートショッピングパーク</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/8</guid>
-      <pubDate>Sun, 22 Jun 2025 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/9</guid>
+      <pubDate>Mon, 23 Jun 2025 01:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/06/23 09:00〜
@@ -64,8 +54,8 @@
 ■オープン(ガチアサリ)：ナンプラー遺跡 / クサヤ温泉
 ■Xマッチ(ガチホコバトル)：ヒラメが丘団地 / マサバ海峡大橋</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/7</guid>
-      <pubDate>Sun, 22 Jun 2025 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/8</guid>
+      <pubDate>Mon, 23 Jun 2025 01:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/06/23 11:00〜
@@ -74,8 +64,8 @@
 ■オープン(ガチエリア)：ユノハナ大渓谷 / スメーシーワールド
 ■Xマッチ(ガチヤグラ)：ヤガラ市場 / リュウグウターミナル</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/6</guid>
-      <pubDate>Sun, 22 Jun 2025 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/7</guid>
+      <pubDate>Mon, 23 Jun 2025 01:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/06/23 13:00〜
@@ -84,8 +74,8 @@
 ■オープン(ガチヤグラ)：ゴンズイ地区 / マヒマヒリゾート＆スパ
 ■Xマッチ(ガチエリア)：海女美術大学 / タカアシ経済特区</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/5</guid>
-      <pubDate>Sun, 22 Jun 2025 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/6</guid>
+      <pubDate>Mon, 23 Jun 2025 01:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/06/23 15:00〜
@@ -94,8 +84,8 @@
 ■オープン(ガチホコバトル)：ナメロウ金属 / オヒョウ海運
 ■Xマッチ(ガチアサリ)：チョウザメ造船 / バイガイ亭</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/4</guid>
-      <pubDate>Sun, 22 Jun 2025 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/5</guid>
+      <pubDate>Mon, 23 Jun 2025 01:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/06/23 17:00〜
@@ -104,8 +94,8 @@
 ■オープン(ガチアサリ)：マテガイ放水路 / デカライン高架下
 ■Xマッチ(ガチホコバトル)：ゴンズイ地区 / キンメダイ美術館</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/3</guid>
-      <pubDate>Sun, 22 Jun 2025 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/4</guid>
+      <pubDate>Mon, 23 Jun 2025 01:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/06/23 19:00〜
@@ -114,8 +104,8 @@
 ■オープン(ガチエリア)：マヒマヒリゾート＆スパ / バイガイ亭
 ■Xマッチ(ガチヤグラ)：マンタマリア号 / オヒョウ海運</title>
       <link>https://splatoon3.ink</link>
-      <guid isPermaLink="false">http://example.com/entries/2</guid>
-      <pubDate>Sun, 22 Jun 2025 23:01:02 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/entries/3</guid>
+      <pubDate>Mon, 23 Jun 2025 01:01:03 +0000</pubDate>
     </item>
     <item>
       <title>2025/06/23 21:00〜
@@ -124,8 +114,18 @@
 ■オープン(ガチヤグラ)：ヒラメが丘団地 / ザトウマーケット
 ■Xマッチ(ガチエリア)：コンブトラック / カジキ空港</title>
       <link>https://splatoon3.ink</link>
+      <guid isPermaLink="false">http://example.com/entries/2</guid>
+      <pubDate>Mon, 23 Jun 2025 01:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025/06/23 23:00〜
+■ナワバリバトル：キンメダイ美術館 / リュウグウターミナル
+■チャレンジ(ガチエリア)：ヒラメが丘団地 / ザトウマーケット
+■オープン(ガチホコバトル)：ユノハナ大渓谷 / タラポートショッピングパーク
+■Xマッチ(ガチアサリ)：マサバ海峡大橋 / ネギトロ炭鉱</title>
+      <link>https://splatoon3.ink</link>
       <guid isPermaLink="false">http://example.com/entries/1</guid>
-      <pubDate>Sun, 22 Jun 2025 23:01:02 +0000</pubDate>
+      <pubDate>Mon, 23 Jun 2025 01:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
